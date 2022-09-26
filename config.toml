@@ -2,3 +2,9 @@ baseURL = 'https://zlemenio.github.io/'
 languageCode = 'en-us'
 title = 'Lemizh'
 theme = "mini"
+[params]    
+bio = "IdealistiC"
+
+[social]
+github = "https://github.com/lemenioDo"
+facebook = "https://www.facebook.com/lemeniodo"
