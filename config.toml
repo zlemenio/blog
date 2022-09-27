@@ -2,9 +2,12 @@ baseURL = 'https://zlemenio.github.io/'
 languageCode = 'en-us'
 title = 'Lemenio'
 theme = "mini"
+disqusShortname = "vietkhanhdo"
+
 [params]    
-bio = "Geek"
+    bio = "amateurasu"
+    enableComments = "true"
 
 [social]
-github = "https://github.com/lemenioDo"
+github = "https://github.com/zlemenio"
 facebook = "https://www.facebook.com/lemeniodo"
