@@ -1,7 +1,7 @@
 ---
 title: "First"
 date: 2022-09-26T21:05:08+07:00
-draft: false
+draft: true
 tags: ["markdown", "css",]
 categories: ["themes", "syntax",]
 aliases: ["migrate-from-jekyl"]
