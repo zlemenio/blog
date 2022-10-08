@@ -7,7 +7,7 @@ draft: false
 A week already past, I encountered some issues and problems. I would say it one of the most darkness moments in my life. It can be bad or good, still play a vital role in giving me the lesson. Here’s what I learned.
 <!--more-->
 
-<img class="special-img-class" src="images/Untitled-1@3x.png" />
+![Yellow Duck](/Untitled-1@3x.png 'Yellow Duck')
 
 
 You don’t need to win in all case.
