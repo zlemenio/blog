@@ -7,9 +7,10 @@ draft: false
 A week already past, I encountered some issues and problems. I would say it one of the most darkness moments in my life. It can be bad or good, still play a vital role in giving me the lesson. Here’s what I learned.
 <!--more-->
 
+![Example image](/public/Untitled-1%403x.png)
+
 You don’t need to win in all case.
 
-![Example image](/static/images/Untitled-1%403x.png)
 
 In a debate, or maybe an argument between you and your close friends. Sometimes, we just can’t put our ego aside from being overacting and speak without thinking. Turns out, our long run could be damaged only in a moment because of the feeling “you have to be the winner”. Understandable? Don’t waste your time with narrow-minded people, your energy worth for doing something more valuable.
 
