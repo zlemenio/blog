@@ -14,3 +14,6 @@ disqusShortname = "vietkhanhdo"
 github = "https://github.com/zlemenio"
 facebook = "https://www.facebook.com/lemeniodo"
 
+[[resources]]
+name = 'header'
+src = 'images/Untitled-1@3x.png'
