@@ -7,6 +7,7 @@ aliases: ["migrate-from-jekyl"]
 ---
 
 Starting to realize when we keep moving on and leave behind the perfectness of the result, we have more time for other activities. Spend too many time and focus on the quality may exhaust our ability to solve other problems on the daily basis. 
+<!--more-->
 
 As a person who deserves something suitable with my statisfaction. This quite hard to me. But time after times, spend time and prioritize your goals would be definitely crucial to our live. Trust me. 
 
