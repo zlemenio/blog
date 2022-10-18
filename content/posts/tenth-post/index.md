@@ -1,5 +1,5 @@
 ---
-title: "Tenth Post"
+title: "Up"
 date: 2022-10-18T21:26:01+07:00
 draft: false
 tags: ["That isn't lying",]
