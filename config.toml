@@ -5,7 +5,7 @@ theme = "sub-mini"
 disqusShortname = "vietkhanhdo"
 
 [params]    
-    bio = "Ideas worth sharin."
+    bio = "Real mistakes"
     enableComments = "true"
     copyright = "© Copyright 2021 ❤️"
     showPowerBy= "false"
