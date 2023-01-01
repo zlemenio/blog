@@ -5,8 +5,10 @@ draft: false
 tags: ["Mindful",]
 aliases: ["migrate-from-jekyl"]
 ---
+Carefully saying things and avoid hurting people if possible, showing respect to them (a bit exaggeration here). 
+<!--more-->
 
-Whenever you talk or speak, think carefully before expressing yourself. I used to believe that being authentic and truthful would be essential, but after some shocking events that taught me how to analysize and reflect my thoughts before showing them. Carefully saying things and avoid hurting people if possible, showing respect to them (a bit exaggeration here). 
+>Whenever you talk or speak, think carefully before expressing yourself. I used to believe that being authentic and truthful would be essential, but after some shocking events that taught me how to analysize and reflect my thoughts before showing them. 
 
 Ask yourself first, make sure you're understanding the situation and aware of what you're doing. Then, freely showing them but under some limitations, it's an essential thing to do when limiting yourself. Come out of this zone might be easy for me, but it's patience and consistency that matters the most. 
 
