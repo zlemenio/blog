@@ -13,6 +13,7 @@ disqusShortname = "vietkhanhdo"
 [social]
 github = "https://github.com/zlemenio"
 facebook = "https://www.facebook.com/lemeniodo"
+medium = "https://lemenio.medium.com"
 
 [[resources]]
 name = 'header'
