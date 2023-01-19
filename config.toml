@@ -1,7 +1,7 @@
 baseURL = 'https://lemenio.me/'
 languageCode = 'en-us'
 title = 'Lemenio'
-theme = "sub-mini"
+theme = "mini"
 disqusShortname = "vietkhanhdo"
 
 [params]    

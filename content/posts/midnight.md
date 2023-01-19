@@ -1,11 +1,12 @@
 ---
 title: "Midnight"
 date: 2023-01-20T01:04:10+07:00
-draft: true
+draft: false
 tags: ["LEASE"]
 aliases: ["migrate-from-jekyl"]
 ---
 If you're happy or currently experience some possitive moment, than you should skip this post. Mostly, it's about me facing with myself and uncertainty I have with my own future.
+<!--more-->
 
 I know there was some clues in my journey, the process of learning and chasing goals do make sense to me. But I feel it's kinda weird experience, thinking I'm heading myself in the wrong direction or even worse thinking I'm always right.
 
