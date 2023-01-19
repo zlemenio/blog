@@ -1,7 +1,7 @@
 baseURL = 'https://lemenio.me/'
 languageCode = 'en-us'
 title = 'Lemenio'
-theme = "mini"
+theme = "sub-mini"
 disqusShortname = "vietkhanhdo"
 
 [params]    
@@ -13,7 +13,6 @@ disqusShortname = "vietkhanhdo"
 [social]
 github = "https://github.com/zlemenio"
 facebook = "https://www.facebook.com/lemeniodo"
-medium = "https://lemenio.medium.com"
 
 [[resources]]
 name = 'header'
