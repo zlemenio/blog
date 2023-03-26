@@ -6,7 +6,10 @@ tags: ["Mind is a Prison"]
 aliases: ["migrate-from-jekyl"]
 ---
 
-You own your life. Forget about those predetermined thing, I am bored with it. Having walked around the numerlogy and astrology part to see what my future defines. Guess what? I always have the feeling of "prediciting the future", rather than taking responsibility for my own action. I don't say guidance is bad, it just don't suit well with this guy.
+You own your life. 
+<!--more-->
+
+Forget about those predetermined thing, I am bored with it. Having walked around the numerlogy and astrology part to see what my future defines. Guess what? I always have the feeling of "prediciting the future", rather than taking responsibility for my own action. I don't say guidance is bad, it just don't suit well with this guy.
 
 I suffered. 
 
