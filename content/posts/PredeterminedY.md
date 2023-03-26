@@ -1,7 +1,7 @@
 ---
-title: "PredeterminedY"
+title: "Predetermined"
 date: 2023-03-27T01:01:23+07:00
-draft: true
+draft: false
 tags: ["Mind is a Prison"]
 aliases: ["migrate-from-jekyl"]
 ---
