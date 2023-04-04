@@ -7,6 +7,7 @@ aliases: ["migrate-from-jekyl"]
 ---
 
 This is the end day of the week and I don't know what to write next. 
+<!--more-->
 
 I may misunderstood between having high EQ and being emotionally intense. There's not so many correlations between two those areas. But being emotionally intense can lead to high EQ, however, that's a small chance. 
 
