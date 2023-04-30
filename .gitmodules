@@ -4,3 +4,6 @@
 [submodule "themes/sub-mini"]
 	path = themes/sub-mini
 	url = https://github.com/zlemenio/hugo-theme-mini.git
+[submodule "themes/my_website/themes/pico"]
+	path = themes/my_website/themes/pico
+	url = https://github.com/negrel/hugo-theme-pico.git
