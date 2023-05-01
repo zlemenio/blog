@@ -1,0 +1,15 @@
+{
+  "links": [
+    {
+      "name": "linkedin",
+      "url": "https://www.linkedin.com",
+      "image": "images/social/linkedin.svg"
+    },
+    {
+      "name": "youtube",
+      "url": "https://www.youtube.com",
+      "image": "images/social/youtube.svg"
+    }
+
+  ]
+}

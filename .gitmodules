@@ -1,9 +1,3 @@
-[submodule "themes/mini"]
-	path = themes/mini
-	url = https://github.com/nodejh/hugo-theme-mini
-[submodule "themes/sub-mini"]
-	path = themes/sub-mini
-	url = https://github.com/zlemenio/hugo-theme-mini.git
-[submodule "themes/my_website/themes/pico"]
-	path = themes/my_website/themes/pico
+[submodule "themes/pico"]
+	path = themes/pico
 	url = https://github.com/negrel/hugo-theme-pico.git
