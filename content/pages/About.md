@@ -20,7 +20,7 @@ In order to change, to move on easier, we have to take use of all the strengths.
 
 My journey was inspired by the chairman of the club I joined. He's a brilliant guy who knows how to made use of his power to bring things to life. He taught me about thoughts and how they affect your life, I learned so much things from him. The efforts he made were also massive, I admire and want to become like that person. 
 
-Everything takes time to grow, be mature and kind will be key for personal developments. That's what I'm aiming for in this blog post, broaden knowledge and share them to people. This blog will post most things I have learned along my road to enlightenment. 
+Everything takes time to grow, be mature and kind will be key for personal developments. That's what I'm aiming for in this blog post, broaden knowledge and share them to people. This blog will post most things I have learned along my road to enlightenment . 
 
 Clearly, I aslo need to spare some small money to maintain this website so hope to get supports from you if I intend to shout out to "by me a cup of coffee". 
 
