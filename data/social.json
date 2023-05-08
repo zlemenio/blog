@@ -1,15 +1,19 @@
 {
   "links": [
     {
-      "name": "linkedin",
-      "url": "https://www.linkedin.com",
-      "image": "images/social/linkedin.svg"
+      "name": "Medium",
+      "url": "https://medium.com/@lemenio",
+      "image": "images/social/medium.svg"
     },
     {
       "name": "youtube",
-      "url": "https://www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=0Ypfjq31I7s&t=77s",
       "image": "images/social/youtube.svg"
+    },
+    {
+      "name": "podcast",
+      "url": "https://podcasters.spotify.com/pod/show/lemenio3",
+      "image": "images/social/podcast.svg"
     }
-
   ]
 }
