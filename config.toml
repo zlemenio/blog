@@ -1,4 +1,4 @@
-baseURL = "https://lemenio.me/"
+baseURL = ""
 languageCode = "en-us"
 theme = "hugo-winston-theme"
 themesDir = "themes"
