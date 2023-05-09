@@ -1,5 +1,5 @@
 ---
-title: "PowerOfThoughts"
+title: "The Power Of Thoughts"
 date: 2023-05-09T22:40:05+07:00
 draft: false
 description: "It's your choice to be mindfulness"
