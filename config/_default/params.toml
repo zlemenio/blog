@@ -6,7 +6,9 @@ homepage.layout = "background"
 highlightCurrentMenuArea = true
 smartTOC = true
 smartTOCHideUnfocusedChildren = true
-
+homepage.showRecent = true
+homepage.cardView = true
+homepage.layoutBackgroundBlur = true
 
 enableCodeCopy = true
 
@@ -90,8 +92,3 @@ defaultBackgroundImage = "/img/backgr.jpg"
   cardView = true
   cardViewScreenWidth = false
   
-  
-
-homepage.showRecent = true
-homepage.cardView = true
-homepage.layoutBackgroundBlur = true
