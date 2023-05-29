@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-theme = "blowfish"
+theme = "blowfis"
 weight = 1
 rtl = false
 
