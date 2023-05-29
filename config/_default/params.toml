@@ -1,12 +1,10 @@
 colorScheme = "fire"
 defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = true
-
 homepage.layout = "background"
 highlightCurrentMenuArea = true
 smartTOC = true
 smartTOCHideUnfocusedChildren = true
-homepage.showRecent = true
 homepage.cardView = true
 homepage.layoutBackgroundBlur = true
 
@@ -91,4 +89,3 @@ defaultBackgroundImage = "/img/backgr.jpg"
   groupByYear = false
   cardView = true
   cardViewScreenWidth = false
-  
