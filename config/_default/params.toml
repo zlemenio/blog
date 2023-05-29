@@ -1,14 +1,20 @@
 colorScheme = "fire"
-defaultAppearance = "dark" # valid options: light or dark
+defaultAppearance = "dark"
 autoSwitchAppearance = true
-homepage.layout = "background"
+
+
 highlightCurrentMenuArea = true
 smartTOC = true
 smartTOCHideUnfocusedChildren = true
 homepage.cardView = true
 homepage.layoutBackgroundBlur = true
 
+
 enableCodeCopy = true
+
+
+
+
 
 
 
