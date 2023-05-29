@@ -1,0 +1,29 @@
+baseURL = "/"
+languageCode = "en-us"
+theme = "blowfish"
+weight = 1
+rtl = false
+
+title = "The Mind"
+#secondaryLogo = "PATH"
+description = "A place to train the mind"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+colorScheme = "fire"
+dateFormat = "2 January 2006"
+
+[author]
+  name = "Lemenio"
+  image = "img/ava.jpg"
+  bio = "Amateur Writer & Podcaster"
+  links = [
+    { youtube = "https://www.youtube.com/channel/UCV55rhXQCqQb9xj6_bjMrAA" },
+    { medium = "https://lemenio.medium.com" },
+    ]
+
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  author = "authors"
+  series = "series"

@@ -1,0 +1,15 @@
+[[main]]
+  pre = "images-square"
+  name = "Galeri"
+  weight = 20
+  url = "/galeri"
+
+
+
+[[main]]
+  pre = "music-notes"
+  name = "Abou"
+  weight = 20
+  url = "/Abou"
+
+
