@@ -1,6 +1,7 @@
 ---
 title: "About"
 date: 2019-02-24
+draft: false
 menu:
   main:
     name: "About"
