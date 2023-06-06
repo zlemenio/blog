@@ -6,6 +6,7 @@ menu:
     name: "Blog"
     weight: 2
 ---
-{{< lead >}}
+{\{< lead >}\}
 <p>I write <strong>helplessly.</strong></p>
-{{< /lead >}}
+{\{< /lead >}\}
+
