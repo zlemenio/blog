@@ -8,12 +8,14 @@
 colorScheme = "fire"
 defaultAppearance = "dark"
 autoSwitchAppearance = true
-mainSections = ["docs"]
+
 highlightCurrentMenuArea = true
 disableImageOptimization = false
 defaultBackgroundImage = "/img/backgr.jpg"
-[header]
-  layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
+smartTOC = true
+smartTOCHideUnfocusedChildren = true
+
+
 
 
 [footer]

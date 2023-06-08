@@ -3,10 +3,10 @@ title: Loving
 date: 2023-05-01
 description: "It's a powerful emotion to connect people. But when it stands alone, there's not even much value will gained. Our job is to recgonize and apply it in the right suitation to create a better outcome"
 imageAltAttribute: loving
-tags: ["series", "docs"]
-series: ["Reason for living"]
-series_order: 2
-seriesOpened: true
+tags: ["Thought"]
+# series: ["Reason for living"]
+# series_order: 2
+# seriesOpened: true
 ---
 ![Alt Text](https://images.unsplash.com/photo-1487059509674-389a7b979022?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1219&q=80)
 

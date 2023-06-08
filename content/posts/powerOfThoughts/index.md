@@ -4,10 +4,10 @@ date: 2023-05-09T22:40:05+07:00
 draft: false
 description: "It's your choice to be mindfulness"
 slug: "series"
-tags: ["series", "docs"]
-series: ["Reason for living"]
-series_order: 1
-seriesOpened: true
+tags: ["Thought", "Mindset"]
+# series: ["Reason for living"]
+# series_order: 1
+# seriesOpened: true
 --- 
 It constructs who you’re due to the frequency of thoughts replicating. Hence, it built up the beliefs in you. Problem can appear in this situation as some of the misleading maybe inaccurate and you have to find the alternatives. But they usually sought solace in the excuses that it was rooted in our personality. However, the truth is we can change it in by using some reprogramming technique in spite of its deepness.
 
