@@ -12,10 +12,6 @@ tags: ["Thought"]
 
 Loving people, it’s a powerful emotion. When you love someone, really it’s hard to hurt them. If everyone loves each other and there isn’t any existence of war or racism. But years after years, it’s the hardest thing humans can do, without further trying to develop these things, we make our lives more convenient and comfortable.
 
-{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
-This is an error!
-{{< /alert >}}
-
 There are two types of love, romantic and normal one. About the first segment, it’ll suit your deeper needs since it needs the contributing from both sides in order to build up this exclusive connection. You can show up your insight thoughts, share things with others and live a meaningful life with your spouse. A good, promising romantic relationship will help you grow. There’s a lot of benefit when getting yourself related in this relationship.
 
 And for the second segment, it could be happiness at some point. Briefly, you could love them because how they treat people is so nicely. You’ll admire them, all of a sudden they help you, and somehow feel in love with that specific people. From my perspective, I’ll support them with all of my efforts and won’t consider anything in return.
