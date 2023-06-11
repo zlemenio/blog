@@ -6,3 +6,7 @@
 	path = themes/blow
 	url = https://github.com/nunocoracao/blowfish.git
 	branch = main
+[submodule "themes/blowfishh"]
+	path = themes/blowfishh
+	url = https://github.com/nunocoracao/blowfish.git
+	branch = main
