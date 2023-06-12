@@ -4,4 +4,4 @@ description: "This is a demo of the Blowfish theme for Hugo."
 ---
 
 Hello, I am Lemenio 👋.  
-I am a tech enthusiast, amateur writer & podcaster. Especially, an `overthinker`. 
+I am a tech enthusiast, amateur writer & podcaster

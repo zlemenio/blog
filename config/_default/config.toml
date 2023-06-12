@@ -4,13 +4,18 @@ theme = "blowfishh"
 weight = 1
 rtl = false
 
-title = "The Mind"
+title = "The Apple"
 #secondaryLogo = "PATH"
 description = "A place to train the mind"
 # copyright = "Copy, _right?_ :thinking_face:"
 
+
 colorScheme = "fire"
 dateFormat = "2 January 2006"
+
+
+[params]
+ logo = "/img/logo.png"
 
 [imaging]
   anchor = 'Center'
@@ -23,7 +28,7 @@ dateFormat = "2 January 2006"
 
 [author]
   name = "Lemenio"
-  image = "img/ava.jpg"
+  image = "img/homepage.png"
   bio = "Amateur Writer & Podcaster"
   links = [
     { youtube = "https://www.youtube.com/channel/UCV55rhXQCqQb9xj6_bjMrAA" },

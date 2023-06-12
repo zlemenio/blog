@@ -7,11 +7,11 @@
 
 colorScheme = "fire"
 defaultAppearance = "dark"
-autoSwitchAppearance = true
+autoSwitchAppearance = false
 
 highlightCurrentMenuArea = true
 disableImageOptimization = false
-defaultBackgroundImage = "/img/backgr.jpg"
+defaultBackgroundImage = "/img/home.jpg"
 smartTOC = true
 smartTOCHideUnfocusedChildren = true
 
@@ -22,11 +22,11 @@ smartTOCHideUnfocusedChildren = true
   showMenu = true
   showCopyright = true
   showThemeAttribution = true
-  showAppearanceSwitcher = true
+  showAppearanceSwitcher = false
   showScrollToTop = true
 
 [homepage]
-  layout = "background" # valid options: page, profile, hero, card, background, custom
+  layout = "hero" # valid options: page, profile, hero, card, background, custom
   # homepageImage = "/img/iceland.jpg" # used in: hero, and card
   showRecent = false
   showRecentItems = 6
@@ -46,7 +46,7 @@ smartTOCHideUnfocusedChildren = true
   showBreadcrumbs = true
   showDraftLabel = true
   showEdit = true
-  editURL = "https://github.com/nunocoracao/blowfish/tree/main/exampleSite/content"
+  editURL = "https://github.com/nunocoracao/bwfish/tree/main/exampleSite/content"
   editAppendPath = true
   seriesOpened = false
   showHeadingAnchors = true
