@@ -14,8 +14,9 @@ colorScheme = "fire"
 dateFormat = "2 January 2006"
 
 
-[params]
- logo = "/img/logo.png"
+# [params]
+# logo = "/img/logo.png"
+# secondaryLogo = "img/logo.png"
 
 [imaging]
   anchor = 'Center'
