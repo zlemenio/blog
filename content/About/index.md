@@ -6,7 +6,7 @@ menu:
   main:
     name: "About"
     weight: 2
-description: "It's your choice to be mindfulness"
+description: "It's your choice to be mindfulness" 
 ---
 I'm a young Vietnamese student who craves to know more about things. I have binded with Astrology and Numerology and Tarot, therefore I let my time passby and always think that my future is already written. My journey is to prove what has pointed out on those things are numb and only me will be the one who decides my owns. 
 
@@ -25,3 +25,4 @@ Everything takes time to grow, be mature and kind will be key for personal devel
 Clearly, I aslo need to spare some small money to maintain this website so hope to get supports from you if I intend to shout out to "by me a cup of coffee". 
 
 Hope ya have a good day!
+

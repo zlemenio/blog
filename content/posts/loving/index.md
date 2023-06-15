@@ -21,3 +21,4 @@ That’s how I treat people whom I love, not in romantic ways but a warmer, and 
 But our psychology is the only blockage that stops you from doing this thing. Since our foundation was built with expectations, disposing of them might be really hard. We can’t eliminate but rather live with it at the basis level. At the higher level, do things without having deserving results might leads you to another stage, place of love from inner world. You’re now free from the restrictions of society, happy with your own, it’s awesome to be like this.
 
 And I wish, could live a lonely life without the exposure of normal people. Without the expectation of receiving love back from people whom I gave. A true meaning of life is one without the reluctantness of others.
+<script async data-uid="8e4ed58542" src="https://lemenio.ck.page/8e4ed58542/index.js"></script>

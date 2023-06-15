@@ -103,3 +103,10 @@ smartTOCHideUnfocusedChildren = true
   groupByYear = false
   cardView = true
   cardViewScreenWidth = false
+
+[buymeacoffee]
+  identifier = "nunocoracao"
+  globalWidget = true
+  globalWidgetMessage = ""
+  globalWidgetColor = "#FFDD00"
+  globalWidgetPosition = "Right"
