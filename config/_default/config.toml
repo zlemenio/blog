@@ -34,6 +34,8 @@ dateFormat = "2 January 2006"
   links = [
     { youtube = "https://www.youtube.com/channel/UCV55rhXQCqQb9xj6_bjMrAA" },
     { medium = "https://lemenio.medium.com" },
+    { lightbulb = "https://podcasters.spotify.com/pod/show/lemenio3" },
+    { soudcloud = "https://soundcloud.com/lemenio-do"}
     ]
 
 
